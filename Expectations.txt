@@ -1,0 +1,4 @@
+- Loan Prediction Problem (Customer Segementation Prediction Problem)
+  - Concepts covered - 1. Binary Classification
+                       2. Multiclass classification
+                       3. Hypothesis generation
